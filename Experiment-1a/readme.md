@@ -6,4 +6,4 @@
 ![Sample Output](Sample output-1a.png)
 
 #Tested Output
-![Tested output-1a.png]
+![Tested output](Tested output-1a.png)
