@@ -3,7 +3,7 @@
 ![FCFS](fcfs)
 
 #Sample Output
-![Sample Output](Sample output-1a)
+![Sample Output](Sample output-1a.png)
 
 #Tested Output
-![Tested output-1a]
+![Tested output-1a.png]
